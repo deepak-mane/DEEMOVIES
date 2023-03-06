@@ -1,0 +1,35 @@
+/* related to form */
+.ant-modal-content .ant-modal-header .ant-modal-title {
+    color: var(--color-primary);
+    font-weight: bold;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+input,
+select,
+textarea {
+    height: 40px;
+    padding-left: 15px;
+    border: 1px solid #8a8a8a;
+    width: 100%;
+}
+.input:focus,
+textarea:focus {
+    outline: none;
+    border: 1px solid #373737;
+}
+
+textarea {
+    min-height: 100px;
+    padding: 15px;
+}
+.ant-form-item {
+    margin: 0;
+    margin-bottom: 10px;
+}
+.ant-form-item .ant-form-item-row .ant-form-item-label {
+    color: var(--color-primary);
+    font-weight: bold;
+    /* background-color: var(--color-primary); */
+}
+ 

@@ -1,0 +1,91 @@
+/* Heights */
+.h-screen {
+    height: 100vh;
+}
+
+.w-screen {
+    width: 100vw;
+}
+
+.h-full {
+    height: 100%;
+}
+
+.w-full {
+    width: 100%;
+}
+.text-ty {
+    font-size: 10px;
+}
+.text-sm {
+    font-size: 14px;
+}
+.text-md {
+    font-size: 16px;
+}
+.text-lg {
+    font-size: 18px;
+}
+.text-xl {
+    font-size: 20px;
+}
+.text-2xl {
+    font-size: 24px;
+}
+.text-3xl {
+    font-size: 30px;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+.lowercase {
+    text-transform: lowercase;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.text-shadow-1 {
+    text-shadow: 1px 1px 2px var(--color-primary);
+}
+.text-shadow-2 {
+    text-shadow: #FC0 1px 0 10px;
+}
+
+.font-normal {
+    font-weight: normal;
+    letter-spacing: normal;
+}
+
+.font-bold {
+    font-weight: bold;
+}
+.font-light {
+    font-weight: lighter;
+}
+
+.font-condensed {
+    letter-spacing: -1px;
+}
+.font-expanded {
+    letter-spacing: 2px;
+}
+
+/* Borders */
+.border {
+    border-width: 1px;
+}
+.br-1 {
+    border-radius: 4px;
+}
+.br-2 {
+    border-radius: 10px;
+}
+.br-3 {
+    border-radius: 15px;
+}
+.br-4 {
+    border-radius: 80px;
+}
